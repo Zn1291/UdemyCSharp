@@ -1,0 +1,16 @@
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.exe
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.deps.json
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.runtimeconfig.json
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.runtimeconfig.dev.json
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.dll
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.pdb
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.csproj.AssemblyReference.cache
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.AssemblyInfoInputs.cache
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.AssemblyInfo.cs
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.csproj.CoreCompileInputs.cache
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.dll
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\refint\ExerciciosCSharp.dll
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.pdb
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.genruntimeconfig.cache
+G:\Meu Drive\C# do Basico ao Avançado\C# Primeiros Passos - Logica de Programação e Algoritmos\Codes\ExerciciosCSharp\ExerciciosCSharp\ExerciciosCSharp\obj\Debug\net5.0\ref\ExerciciosCSharp.dll
